@@ -1,0 +1,14 @@
+{
+  "name": "selenium-assignment-scraper",
+  "version": "1.0.0",
+  "description": "A Selenium WebDriver script to scrape formative assignment data.",
+  "main": "scraper.js",
+  "scripts": {
+    "start": "node scraper.js"
+  },
+  "author": "Wilson Nshizirungu",
+  "type": "module",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0"
+  }
+}
